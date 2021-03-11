@@ -105,19 +105,24 @@ input, select {
 
 /* CSS */
 
-/* 
-.クラス名
-#ID名
+h1 {
+    font-size: 34px;
+}
 
-親要素 子要素 {
+h2 {
+    font-size: 24px ;
+}
+
+p {
+    font-size: 16px;
+}
+
+p.point {
+    font-size: 18px;
     color: red;
 }
-*/
 
-.red {
-    color: red;
+#box1 p {
+    color: blue;
 }
 
-.text.red{
-    color: purple;
-}
