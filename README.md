@@ -6,7 +6,10 @@
 （htmlタグのlang="en"と、<meta http-equiv="X-UA-Compatible" content="IE=edge">を削除
 
 ・CSSの基本構造とルール
- 補足　cssは基本外部でかく
+ 補足　CSSは基本外部でかく
 
- 2
- .属性、タグを知る
+2
+・HTML属性、タグを知る
+
+3
+・CSSの基本
