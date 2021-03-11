@@ -105,37 +105,19 @@ input, select {
 
 /* CSS */
 
-h1 {
-    font-size: 34px;
+.menu {
+    margin: 20px 0;
 }
-
-h2 {
-    font-size: 24px ;
-}
-
-p {
-    font-size: 16px;
-}
-
-p.point {
-    font-size: 18px;
-    color: red;
-}
-
-#box1 p {
-    color: blue;
-}
-
-.part {
-    display: block;
-    margin: 0 10px;
-    background-color: burlywood;
-}
-
-.box {
-    min-height: 100px;
-    margin-bottom: 10px;
-    background-color: darkgoldenrod;
+.menu li {
+    display: inline-block;
+    background: #cb96d4;
     text-align: center;
-    line-height: 100px;
+}
+.menu a {
+    display: block;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+.menu a:hover {
+    opacity: 0.5;
 }
