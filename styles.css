@@ -105,19 +105,14 @@ input, select {
 
 /* CSS */
 
-.menu {
-    margin: 20px 0;
-}
-.menu li {
-    display: inline-block;
-    background: #cb96d4;
+p {
     text-align: center;
 }
-.menu a {
-    display: block;
-    padding: 20px 30px;
-    text-decoration: none;
+.menulist {
+    display: inline-block;
+    background-color: #ccc;
+    padding: 20px;
 }
-.menu a:hover {
-    opacity: 0.5;
+.menu {
+    text-align: center;
 }
