@@ -126,3 +126,16 @@ p.point {
     color: blue;
 }
 
+.part {
+    display: block;
+    margin: 0 10px;
+    background-color: burlywood;
+}
+
+.box {
+    min-height: 100px;
+    margin-bottom: 10px;
+    background-color: darkgoldenrod;
+    text-align: center;
+    line-height: 100px;
+}
