@@ -104,7 +104,20 @@ input, select {
 }
 
 /* CSS */
-p {
+
+/* 
+.クラス名
+#ID名
+
+親要素 子要素 {
     color: red;
-    font-size: 12px;
+}
+*/
+
+.red {
+    color: red;
+}
+
+.text.red{
+    color: purple;
 }
